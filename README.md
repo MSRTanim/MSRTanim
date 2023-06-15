@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msratanim&label=Profile%20views&color=0e75b6&style=flat" alt="msratanim" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msratanim" alt="msratanim" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/msrtanim_" target="blank"><img src="https://img.shields.io/twitter/follow/msrtanim_?logo=twitter&style=for-the-badge" alt="msrtanim_" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
