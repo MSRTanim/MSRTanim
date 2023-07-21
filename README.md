@@ -34,7 +34,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<img align="center" alt="line" src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F726&background=FF000000&center=true&vCenter=true&lines=%F0%9F%A4%97%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%97%F0%9D%97%A8%F0%9D%97%96%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%9A+%F0%9D%97%A0%F0%9D%97%AC%F0%9D%97%A6%F0%9D%97%98%F0%9D%97%9F%F0%9D%97%99%F0%9F%A4%97">
+<img align="center" alt="line" src="https://i.ibb.co/kc4wQfX/1689918642892.png">
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
