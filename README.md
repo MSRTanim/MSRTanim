@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/MSRTanim/all-REDME/blob/90bab62cfe6ce17e0530caf2aa5ad956e24f7b61/Google%20Classroom%20Header%20Let's%20get%20spooky!.gif)](http://www.msrtanim.xyz)
 
 <h1 align="center">Hi 👋, I'm MD SAMIUR RAHMAN TANIM</h1>
-<h3 align="center">A passionate frontend developer from BANGLADESH</h3>
+<h3 align="center">A Developer from BANGLADESH</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msrtanim&label=Profile%20views&color=0e75b6&style=flat" alt="msrtanim" /> </p>
