@@ -1,10 +1,4 @@
-[![MasterHead](https://github.com/MSRTanim/all-REDME/blob/90bab62cfe6ce17e0530caf2aa5ad956e24f7b61/Google%20Classroom%20Header%20Let's%20get%20spooky!.gif))](http://www.msrtanim.xyz)
-
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://www.msrtanim.xyz)
-![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
-![FOLLOWUSPLEASE](https://user-images.githubusercontent.com/20098740/178381026-1c2ecd91-7eb5-4ace-84b5-c0d16b677cb6.gif)
-![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
+[![MasterHead](https://github.com/MSRTanim/all-REDME/blob/90bab62cfe6ce17e0530caf2aa5ad956e24f7b61/Google%20Classroom%20Header%20Let's%20get%20spooky!.gif)](http://www.msrtanim.xyz)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08D406&background=000000&center=true&vCenter=true&lines=%F0%9F%91%8BHELLO+WORLD%2C+I'M+TANIM+HERE%F0%9F%92%81%E2%80%8D%E2%99%82%EF%B8%8F;%E2%98%A3%EF%B8%8FCEO+OF+TOXIC+CYBER+SECURITY%E2%98%A3%EF%B8%8F;%F0%9F%92%81%E2%80%8D%E2%99%82%EF%B8%8FPLEASE+FOLLOW+MY+GITHUB%F0%9F%92%96;%F0%9F%92%BBTHANKS+ALL+MY+FAMILY+MEMBERS%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </p>
