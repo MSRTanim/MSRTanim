@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/msrtanim_" target="blank"><img src="https://img.shields.io/twitter/follow/msrtanim_?logo=twitter&style=for-the-badge" alt="msrtanim_" /></a> </p>
 
+## I am a Independent researcher <img src="https://github.com/MSRTanim/all-REDME/blob/ebee105861d3e93af16afd3aa978ab83a57684f1/giphy-cat-keyTyper.webp" width="30">
 - 🔭 I’m currently working on [C/C++ Programming](https://github.com/MSRTanim/C-Programming)
 
 - 📖 I’m Making a Course over [Python Programming](https://github.com/MSRTanim/Python-Programming)
@@ -18,7 +19,7 @@
 
 - 📫 How to reach me **mdsamiurrahmantanim@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://github.com/MSRTanim/all-REDME/blob/1b8811b03d86d12513a909cc6dd302f1bd265803/giphy-network.webp" width="25"> Connect with Me<img align="center" src="./img/Handshake.gif" height="33px" />
 <p align="left">
 <a href="https://fb.com/msrtanim.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msrtanim1" height="30" width="40" /></a>
 <a href="https://instagram.com/msrtanim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msrtanim1" height="30" width="40" /></a>
