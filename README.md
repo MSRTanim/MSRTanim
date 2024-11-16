@@ -1,45 +1,151 @@
 [![MasterHead](https://github.com/MSRTanim/all-REDME/blob/90bab62cfe6ce17e0530caf2aa5ad956e24f7b61/Google%20Classroom%20Header%20Let's%20get%20spooky!.gif)](http://www.msrtanim.xyz)
 
-<h1 align="center">Hi 👋, I'm MD SAMIUR RAHMAN TANIM</h1>
-<h3 align="center">A Developer from BANGLADESH</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h2>Howdy , it's <i>MD SAMIUR RAHMAN TANIM 👋</i></h2>
+A Passionate <b>Developer</b> from <i><b>BANGLADESH</b></i> 
+<br /><br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msrtanim&label=Profile%20views&color=0e75b6&style=flat" alt="msrtanim" /> </p>
-
-<p align="left"> <a href="https://twitter.com/msrtanim_" target="blank"><img src="https://img.shields.io/twitter/follow/msrtanim_?logo=twitter&style=for-the-badge" alt="msrtanim_" /></a> </p>
-
-## I am a Independent researcher <img src="https://github.com/MSRTanim/all-REDME/blob/ebee105861d3e93af16afd3aa978ab83a57684f1/giphy-cat-keyTyper.webp" width="30">
-- 🔭 I’m currently working on [C/C++ Programming](https://github.com/MSRTanim/C-Programming)
-
-- 📖 I’m Making a Course over [Python Programming](https://github.com/MSRTanim/Python-Programming)
-
-- 👨‍💻 All of my projects are available at [http://www.msrtanim.xyz](http://www.msrtanim.xyz)
-
-- 💬 Ask me about **Cyber Security, Ethical Hacking, Bug Hunting, Web Developing**
-
-- 📫 How to reach me **mdsamiurrahmantanim@gmail.com**
-
-## <img src="https://github.com/MSRTanim/all-REDME/blob/1b8811b03d86d12513a909cc6dd302f1bd265803/giphy-network.webp" width="25"> Connect with Me<img align="center" src="./img/Handshake.gif" height="33px" />
-<p align="left">
-<a href="https://fb.com/msrtanim.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msrtanim1" height="30" width="40" /></a>
-<a href="https://instagram.com/msrtanim1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msrtanim1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/msrtanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="msrtanim" height="30" width="40" /></a>
-<a href="https://twitter.com/msrtanim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msrtanim_" height="30" width="40" /></a>
-<a href="https://codepen.io/msrtanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="msrtanim" height="30" width="40" /></a>
-<a href="https://discord.gg/4Y4KUUADMC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4292" height="30" width="40" /></a>
+<!-- Badges -->
+<p>
+    <a href="#"><img src="https://img.shields.io/github/followers/MSRTanim?style=social&label=follow"></a>
+    <a href="#"><img src="https://img.shields.io/github/stars/MSRTanim?style=social"></a>
+    <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMSRTanim&title=Visitors&count_bg=%230073EB"></a>
 </p>
 
+<!-- Console? -->
+<pre>
+sh-2.0$ /bin/bash -i
+~#
+~# ls
+<a href="#-AboutMe">AboutMe</a> <a href="#-ls-projects">Projects</a> <a href="#-head-languagepy">language.py</a> <a href="#-sysinfo">sysinfo*</a>
+</pre>
 
+<!-- Social Badges-->
+<hr />
+<p align=center>
+    <a href="https://t.me/CodeWithTanim" target="_blank"><img
+            src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
+            alt="Telegram"></a>
+    <a href="https://www.linkedin.com/in/msrtanim2" target="_blank"><img
+            src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://facebook.com/msrtanim.py" target="_blank"><img
+            src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logoColor=white&logo=facebook"
+            alt="Facebook"></a>
+    <a href="https://instagram.com/msrtanim.py" target="_blank"><img
+            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
+            alt="Instagram"></a>
+    <a href="https://youtube.com/@CodeWIthTanim" target="_blank"><img
+            src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logoColor=red&logo=YouTube"
+            alt="GPG Key"></a>
+</p>
+<hr />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### `~# AboutMe`
+<a href="#"><img align="right" height=156 src="assets/programmer.gif"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08D406&background=000000&center=true&vCenter=true&lines=%F0%9F%91%8BHELLO+WORLD%2C+I'M+TANIM+HERE%F0%9F%92%81%E2%80%8D%E2%99%82%EF%B8%8F;%E2%98%A3%EF%B8%8FCEO+OF+TOXIC+CYBER+SECURITY%E2%98%A3%EF%B8%8F;%F0%9F%92%81%E2%80%8D%E2%99%82%EF%B8%8FPLEASE+FOLLOW+MY+GITHUB%F0%9F%92%96;%F0%9F%92%BBTHANKS+ALL+MY+FAMILY+MEMBERS%F0%9F%94%A5)](https://git.io/typing-svg)
+- I am a **student** 📚
+- I am from **Bangladesh** 🇧🇩 
+- Love of my life : **WiFi** 🛜
+- Dream: become a software engineer 💸
+- Fun Fact: I spend more time in **coding**
 
+### Current Works:
+- Participating in Hackathon's.
+- Learning C++.
+- Trying to get good marks in exams.
+- Working on some private projects.
+<hr />
+
+### `~# Projects`
+<br>
+<table border="1">
+    <tr>
+        <th>Repository Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MSRTanim/TERMUX-SETUP-PRO">TERMUX-PRO-SETUP</a></td>
+        <td>An automated setup tool for Termux.</td>
+    </tr>
+    <!-- <tr>
+        <td><a href="https://github.com/modded-ubuntu/modded-ubuntu">modded-ubuntu</a></td>
+        <td>Run Ubuntu GUI on termux based on Proot-Distro.</td>
+    </tr> -->
+    <!-- <tr>
+        <td><a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse-Engineering</a></td>
+        <td>Some tools reverse engineered by me (mostly python).</td>
+    </tr> -->
+    <tr>
+        <td><a href="https://github.com/MSRTanim/TOXIC-ENC">TOXIC-ENC</a></td>
+        <td>Encode any py code.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MSRTanim/Password-Generator">Password Generator</a></td>
+        <td>It works for making strong password.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MSRTanim/Cosmetics-Products-Management-System">Cosmetics Products Management System</a></td>
+        <td>A product management website.</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/MSRTanim/Unclickable-Love">Unclickable Love</a></td>
+        <td>A funny website made with unclickable button.</td>
+    </tr>
+</table>
+
+<br/>
+
+<!-- Languages -->
+### `~# head language`
+<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSRTanim&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
+
+```python
+class Languages:
+  def __init__(self):
+    self.python = "Python 🐍"
+    self.bash = "Bash 🔩"
+    self.golang = "C"
+    self.golang = "Java"
+    self.golang = "C++ (Learning)"
+    self.future = "..."
+```
+
+<br/>
+
+<!-- System Info -->
+### `~# ./sysinfo`
+<table border="1">
+  <tr>
+    <th>Device</th>
+    <th>Operating System</th>
+    <th>Processor</th>
+  </tr>
+  <tr>
+    <td>Laptop</td>
+    <td>Windows 11 Home</td>
+    <td>AMD RYZEN 5</td>
+  </tr>
+  <tr>
+    <td>Desktop</td>
+    <td>Windows 10 Pro</td>
+    <td>Intel Pentium</td>
+  </tr>
+  <tr>
+    <td>Android</td>
+    <td>Android 12</td>
+    <td>OxygenOS</td>
+  </tr>
+</table>
+
+<!-- GitHub Trophy -->
+### `~# ./Trophy`
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msrtanim" alt="msrtanim" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msrtanim&show_icons=true&locale=en&layout=compact" alt="msrtanim" /></p>
-
+<!-- GitHub Stats -->
+### `~# ./Stats`
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msrtanim&show_icons=true&locale=en" alt="msrtanim" /></p>
 
+<!-- GitHub Contribution -->
+### `~# ./Contribution`
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msrtanim&" alt="msrtanim" /></p>
+<!-- end -->
+
