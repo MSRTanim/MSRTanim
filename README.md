@@ -118,21 +118,25 @@ class Languages:
     <th>Device</th>
     <th>Operating System</th>
     <th>Processor</th>
+    <th>RAM</th>
   </tr>
   <tr>
     <td>Laptop</td>
     <td>Windows 11 Home</td>
     <td>AMD RYZEN 5</td>
+    <td>8 GB</td>
   </tr>
   <tr>
     <td>Desktop</td>
     <td>Windows 10 Pro</td>
     <td>Intel Pentium</td>
+    <td>6 GB</td>
   </tr>
   <tr>
     <td>Android</td>
     <td>Android 12</td>
-    <td>OxygenOS</td>
+    <td>Qualcomm SDM765G</td>
+    <td>13 GB</td>
   </tr>
 </table>
 
