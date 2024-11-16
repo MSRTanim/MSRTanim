@@ -16,7 +16,7 @@ A Passionate <b>Developer</b> from <i><b>BANGLADESH</b></i>
 sh-2.0$ /bin/bash -i
 ~#
 ~# ls
-<a href="#-AboutMe">AboutMe</a> <a href="#-ls-projects">Projects</a> <a href="#-head-languagepy">language.py</a> <a href="#-sysinfo">sysinfo*</a>
+<a href="#-AboutMe">AboutMe</a> <a href="#-ls-projects">Projects</a> <a href="#-head-language">language</a> <a href="#-sysinfo">sysinfo*</a>
 </pre>
 
 <!-- Social Badges-->
