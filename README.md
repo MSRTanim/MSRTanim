@@ -40,7 +40,7 @@ sh-2.0$ /bin/bash -i
 <hr />
 
 ### `~# AboutMe`
-<a href="#"><img align="right" height=156 src="assets/programmer.gif"></a>
+<a href="#"><img align="right" height=300 src="assets/programmer.gif"></a>
 
 - I am a **student** 📚
 - I am from **Bangladesh** 🇧🇩 
