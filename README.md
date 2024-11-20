@@ -150,6 +150,6 @@ class Languages:
 
 <!-- GitHub Contribution -->
 ### `~# ./Contribution`
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msrtanim&" alt="msrtanim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msrtanim" alt="msrtanim" /></p>
 <!-- end -->
 
