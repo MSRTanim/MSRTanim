@@ -46,7 +46,7 @@ sh-2.0$ /bin/bash -i
 - I am from **Bangladesh** 🇧🇩 
 - Love of my life : **WiFi** 🛜
 - Dream: become a software engineer 💸
-- Fun Fact: I spend more time in **coding**
+- Fun Fact: I spend more time in **Gaming**
 
 ### Current Works:
 - Participating in Hackathon's.
