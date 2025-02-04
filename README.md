@@ -25,12 +25,12 @@ sh-2.0$ /bin/bash -i
     <a href="https://t.me/CodeWithTanim" target="_blank"><img
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
-    <a href="https://www.linkedin.com/in/msrtanim2" target="_blank"><img
+    <a href="https://www.linkedin.com/in/CodeWIthTanim" target="_blank"><img
             src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-    <a href="https://facebook.com/msrtanim.py" target="_blank"><img
+    <a href="https://facebook.com/CodeWIthTanim" target="_blank"><img
             src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logoColor=white&logo=facebook"
             alt="Facebook"></a>
-    <a href="https://instagram.com/msrtanim.py" target="_blank"><img
+    <a href="https://instagram.com/CodeWIthTanim" target="_blank"><img
             src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
             alt="Instagram"></a>
     <a href="https://youtube.com/@CodeWIthTanim" target="_blank"><img
