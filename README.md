@@ -6,9 +6,9 @@ A Passionate <b>Developer</b> from <i><b>BANGLADESH</b></i>
 
 <!-- Badges -->
 <p>
-    <a href="#"><img src="https://img.shields.io/github/followers/MSRTanim?style=social&label=follow"></a>
-    <a href="#"><img src="https://img.shields.io/github/stars/MSRTanim?style=social"></a>
-    <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMSRTanim&title=Visitors&count_bg=%230073EB"></a>
+    <a href="#"><img src="https://img.shields.io/github/followers/CodeWithTanim?style=social&label=follow"></a>
+    <a href="#"><img src="https://img.shields.io/github/stars/CodeWithTanim?style=social"></a>
+    <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodeWithTanim&title=Visitors&count_bg=%230073EB"></a>
 </p>
 
 <!-- Console? -->
@@ -83,7 +83,7 @@ sh-2.0$ /bin/bash -i
         <td>It works for making strong password.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/CodeWIthTanim/Cosmetics-Products-Management-System">Cosmetics Products Management System</a></td>
+        <td><a href="https://github.com/CodeWIthTanim/Cosmetics-Product-Management-System">Cosmetics Products Management System</a></td>
         <td>A product management website.</td>
     </tr>
     <tr>
